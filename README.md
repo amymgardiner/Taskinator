@@ -12,4 +12,4 @@ The options for the task type are print, web, and mobile. And the columns are ta
 
 ## Application Link
 
-https://amymgardiner.github.io/taskinator/
+https://amymgardiner.github.io/Taskinator/
