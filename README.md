@@ -13,3 +13,5 @@ The options for the task type are print, web, and mobile. And the columns are ta
 ## Application Link
 
 https://amymgardiner.github.io/Taskinator/
+
+![plot](./assets/images/Screenshot%202022-06-21%20161815.png)
